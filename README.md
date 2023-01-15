@@ -33,4 +33,4 @@ I'm a first year at the University of Waterloo's Math Honours co-op program! I e
 
 ---
 
-## Check out my favourite projects below!
+## Check out my pinned projects below!

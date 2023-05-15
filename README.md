@@ -47,7 +47,7 @@ I'm Steven, a first year at the University of Waterloo's Math Honours co-op prog
 
 ### 🏆 uOttaHack 5 - Noibu Challenge 1st
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MoroccanGemsbok&repo=ReviewRecap&theme=github_dark_dimmed)](https://github.com/MoroccanGemsbok/ReviewRecaps)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MoroccanGemsbok&repo=ReviewRecap&theme=github_dark_dimmed)](https://github.com/MoroccanGemsbok/ReviewRecap)
 
 ### 🏆 DeerHacks 2023 - Overall 2nd
 

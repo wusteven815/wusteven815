@@ -4,40 +4,43 @@
 
 </div>
 
-I'm Steven, a first year at the University of Waterloo's Math Honours co-op program! I enjoy programming and computer science, so I hope I can either transfer to the CS program or match my courses as close as possible.
+I'm Steven, a first year at the University of Waterloo's Data Science Honours co-op program! I enjoy programming and computer science, so I hope I can either transfer to the CS program or match my courses as close as possible.
 
 ---
 
 ### Languages
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Technologies
 
-![](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![](https://img.shields.io/badge/React%20%2B%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/numPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/pyqt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/react%20%2B%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/redis%20graph-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Tools
 
-![](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
-![](https://img.shields.io/badge/-JetBrains%20IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-gcp-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
+![](https://img.shields.io/badge/-jetbrains%20IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 

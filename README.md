@@ -31,6 +31,7 @@ I'm Steven, a first year at the University of Waterloo's Data Science Honours co
 ![](https://img.shields.io/badge/react%20%2B%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/redis%20graph-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![](https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Tools

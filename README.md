@@ -4,7 +4,7 @@
 
 </div>
 
-I'm Steven, a first year at the University of Waterloo's Data Science Honours co-op program! I enjoy programming and computer science, so I hope I can either transfer to the CS program or match my courses as close as possible.
+I'm Steven, a second year at the University of Waterloo's Computer Science Honours co-op program!
 
 ---
 
